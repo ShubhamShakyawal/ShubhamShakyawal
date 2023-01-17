@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j68vtgtodxkBDSuz-DlI5ghkbwxaGaAf/view?usp=sharing](https://drive.google.com/file/d/1j68vtgtodxkBDSuz-DlI5ghkbwxaGaAf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bvh3g745_GtiuIPH-mHNWHKGmWVYCpH1/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
